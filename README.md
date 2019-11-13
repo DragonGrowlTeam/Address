@@ -75,9 +75,6 @@ ThinkPHP		http://www.thinkphp.cn/
 DedeCMS		http://www.dedecms.com		
 ECShop		http://yunqi.shopex.cn/products/ecshop		
 Atlassian Jira	https://www.atlassian.com/software/jira
-万户EZ		http://www.whir.net/cn/cpzx/index_2.html	
+万户EZ		http://www.whir.net/cn/cpzx/index_2.html
 亿邮		http://www.eyou.net/	
-金蝶OA		http://www.kingdee.com/solutions/field/oa	
-致远OA		http://www.seeyon.com/
-通达OA		https://www.tongda2000.com/
-	
+OA
