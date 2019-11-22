@@ -51,7 +51,6 @@ Sentry		    https://sentry.io/
 Horde		      https://www.horde.org/apps/horde/		
 CMSTOP	    	http://www.cmstop.com/		
 Destoon		    https://www.destoon.com/		
-MetInfo		    https://www.metinfo.cn/		
 Django		    https://www.djangoproject.com/		
 phpMyAdmin	  https://www.phpmyadmin.net/			
 HiShop		    http://www.hishop.com.cn/				
