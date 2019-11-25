@@ -1,5 +1,62 @@
 收集到的一些通用软件的名称和网址，收藏挖洞
 
+特别关注平台/类型	                                         关注漏洞类型
+*Microsoft Windows	                              远程命令执行/本地提权/虚拟机逃逸
+*Linux / BSD	                                    远程命令执行/本地提权/虚拟机逃逸
+*Apple macOS	                                    远程命令执行/本地提权/虚拟机逃逸
+*Google Chrome	                                  远程命令执行/沙箱逃逸/沙箱绕过
+*Microsoft Edge	                                  远程命令执行/沙箱逃逸/沙箱绕过
+*Mozilla Firefox	                                远程命令执行/沙箱逃逸/沙箱绕过
+*Apple Safari	                                    远程命令执行/沙箱逃逸/沙箱绕过
+*MS Office (Word/Excel/PowerPoint)	              远程命令执行/敏感信息泄露
+*Adobe Acrobat / PDF Reader                       远程命令执行/敏感信息泄露	
+*Email Clients (Outlook/Thunderbird)	            远程命令执行/敏感信息泄露
+*Archivers (WinRAR/7-Zip/WinZip/Tar)	            远程命令执行/敏感信息泄露
+*Apache HTTP Server	                              远程命令执行/敏感信息泄露
+*Microsoft IIS Server	                            远程命令执行/敏感信息泄露
+*nginx web server	                                远程命令执行/敏感信息泄露
+*PHP / ASP	                                      远程命令执行/敏感信息泄露
+*WebLogic	                                        远程命令执行/敏感信息泄露
+*Jboss	                                          远程命令执行/敏感信息泄露
+*Tomcat	                                          远程命令执行/敏感信息泄露
+*WordPress / Joomla / Drupal	                    远程命令执行/SQL注入/信息泄露
+*cPanel / Plesk / Webmin	                        远程命令执行/SQL注入/信息泄露
+*vBulletin / MyBB / phpBB	                        远程命令执行/SQL注入/信息泄露
+*Apple iOS 13.x / 12.x	                          远程命令执行/提权
+*Android 9.x / 8.x	                              远程命令执行/提权
+*MS Exchange	                                    远程命令执行/敏感信息泄露
+*Dovecot	                                        远程命令执行/敏感信息泄露
+*Postfix	                                        远程命令执行/敏感信息泄露
+*Exim	                                            远程命令执行/敏感信息泄露
+*Sendmail	                                        远程命令执行/敏感信息泄露
+*Oracle	                                          远程命令执行/敏感信息泄露/提权
+*Mysql                                         	  远程命令执行/敏感信息泄露/提权
+*MSSQL	                                          远程命令执行/敏感信息泄露/提权
+*PostgreSQL	                                      远程命令执行/敏感信息泄露/提权
+*MongoDB	                                        远程命令执行/敏感信息泄露/提权
+*Redis	                                          远程命令执行/敏感信息泄露/提权
+*DB2	                                            远程命令执行/敏感信息泄露/提权
+*WhatsAPP	                                        远程命令执行/敏感信息泄露/提权
+*Singal	                                          远程命令执行/敏感信息泄露/提权
+*Telegram	                                        远程命令执行/敏感信息泄露/提权
+*iMessage	                                        远程命令执行/敏感信息泄露/提权
+*Cisco	                                          远程命令执行/提权/拒绝服务
+*HUAWEI	                                          远程命令执行/提权/拒绝服务
+*H3C                                           	  远程命令执行/提权/拒绝服务
+*TP-Link                                       	  远程命令执行/提权/拒绝服务
+*D-Link	                                          远程命令执行/提权/拒绝服务
+*NETGEAR	                                        远程命令执行/提权/拒绝服务
+*AWS  IOT	                                        远程命令执行/提权/拒绝服务
+*西门子  IOT	                                      远程命令执行/提权/拒绝服务
+*三星  IOT	                                      远程命令执行/提权/拒绝服务
+*Apple IOT	                                      远程命令执行/提权/拒绝服务
+*Google IOT	                                      远程命令执行/提权/拒绝服务
+*AWS                                           	  远程命令执行/本地提权/虚拟机逃逸
+*azure 	                                          远程命令执行/本地提权/虚拟机逃逸
+*KVM	                                            远程命令执行/本地提权/虚拟机逃逸
+*OpenStack	                                      远程命令执行/本地提权/虚拟机逃逸
+*VMware ESXi	                                    远程命令执行/本地提权/虚拟机逃逸
+
 名称	                                   网址
 Chrome       	https://www.google.cn/intl/zh-CN/chrome/
 FireFox		    http://www.firefox.com.cn/
