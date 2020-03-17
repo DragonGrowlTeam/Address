@@ -88,7 +88,6 @@
 ★Jira           	           RCE、未授权，SSRF	        2年内版本
 ★vBulletin	                   RCE、未授权访问           	5.x
 ★Apache Tomcat 	               RCE、文件上传	           6、7、8、9
-★易优CMS	                   RCE、文件上传            	v1.3.7
 ★laravel框架	               RCE、文件上传	            2年内版本
 ★docker	                       Remote  api未授权/copy漏洞/构建代码执行漏洞	2年内版本
 ★phpstduy	                   RCE	                         2年内版本
