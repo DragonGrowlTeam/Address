@@ -2,7 +2,7 @@
 
 ##### &nbsp;&nbsp;系统名称&nbsp;&nbsp;漏洞类型(均为无条件)&nbsp;&nbsp;版本
 
-★Fastjson	   RCE	   2年内版本
+★Fastjson&nbsp;&nbsp;&nbsp;&nbsp;RCE&nbsp;&nbsp;&nbsp;&nbsp;2年内版本
 
 ★Apache    RCE    2年内版本
 
