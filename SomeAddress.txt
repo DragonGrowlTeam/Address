@@ -91,7 +91,7 @@
 ★laravel框架	               RCE、文件上传	            2年内版本
 ★docker	                       Remote  api未授权/copy漏洞/构建代码执行漏洞	2年内版本
 ★phpstduy	                   RCE	                         2年内版本
-★Harbor	                       任意管理员注册	             1.7.0-1.8.2
+★Harbor	                       任意管理员注册	            2年内版本
 ★RTX	                       文件上传、信息泄露             	2年内版本
 
 附：一些关键基础设施领域参考：
