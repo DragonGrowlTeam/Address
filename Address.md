@@ -71,7 +71,6 @@
 | ★discuz	   | RCE、SQL注入 | 2年内版本 |
 |  ★Nagios XI	| RCE、SQL注入 | 2年内版本 |
 | ★dedecms  | RCE、SQL注入 | 2年内版本 |
-| ★zzcms | RCE、SQL注入 | 2年内版本 |
 | ★joomla | RCE、SQL注入 | 2年内版本 |
 |  ★Drupal	| RCE、SQL注入 | 2年内版本 |
 |  ★ZCMS| RCE、SQL注入 | 2年内版本 |
