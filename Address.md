@@ -64,7 +64,7 @@
 | ★万户oa | RCE、SQL注入 | 2年内版本 |
 | ★海康威视 | RCE、SQL注入 | 2年内版本 |
 | ★phpmyadmin	 | RCE、SQL注入 | 2年内版本 |
-| ★wimail邮件系统 | RCE、SQL注入 | 2年内版本 |
+| ★winmail邮件系统 | RCE、SQL注入 | 2年内版本 |
 | ★Xampp	 | RCE、SQL注入 | 2年内版本 |
 | ★宝塔linux面板 | RCE、SQL注入 | 2年内版本 |
 | ★wdcp面板	  | RCE、SQL注入 | 2年内版本 |
