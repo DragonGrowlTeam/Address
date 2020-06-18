@@ -1,99 +1,153 @@
-#### 收集到的一些比较火的通用软件的名称，收藏挖洞
+#### 收集到的一些比较火的通用软件的名称、收藏挖洞
 
 | 系统名称  | 漏洞类型(均为无条件) |  版本  |
 | :---- | :----: | :----: |
-| ★Fastjson | RCE | 2年内版本 |
-| ★Apache | RCE | 2年内版本 |
-| ★Struts 2 | RCE | 2年内版本 |
 | ★Jboss | RCE | 2年内版本 |
-| ★WebSphere | RCE | 2年内版本 |
-| ★jackson | RCE | 2年内版本 |
-| ★Microsoft Exchange | RCE | 2010、2013、2016、2019 |
-| ★SVN | RCE | 2年内版本 |
-| ★Tengine |    RCE   |   2年内版本    |
-| ★Apache-Traffic-Server | RCE |  2年内版本 |
-| ★Django|  RCE  | 2年内版本  |
-| ★WebLogic |   RCE |  2年内版本 |
-| ★F5-BIGIP |   RCE |   2年内版本|
-| ★Ruijie | RCE | 2年内版本 |
-| ★SiteServer | RCE | 2年内版本 |
-| ★Laravel-Framework | RCE | 2年内版本 |
-| ★seafile | RCE | 2年内版本 |
-| ★IBM-WebSphere	 | RCE | 2年内版本 |
-| ★WebPy  |  RCE | 2年内版本 |
-| ★OpenResty |  RCE | 2年内版本 |
-| ★IBM-HTTP-Server | RCE | 2年内版本 |
-| ★Destoon |   RCE | 2年内版本 |
-| ★Nexus-Repository-Manager |  RCE | 2年内版本 |
+| ★Jenkins | RCE | 2年内版本 |
+| ★Apache | RCE | 2年内版本 |
+| ★Tomcat | RCE | 6、7、8、9 |
+| ★Apache Struts2 | RCE | 2年内版本 |
+| ★Apache Shiro | RCE、Padding Oracle攻击 |   2年内版本    |
+| ★WebLogic | RCE |  2年内版本 |
+| ★WebSphere |   RCE |  2年内版本 |
+| ★Solr |   RCE |   5.x-8.x |
+| ★Resin | RCE | 2年内版本 |
+| ★IIS | RCE | 2年内版本 |
+| ★FastCGI | RCE | 2年内版本 |
+| ★winmail | RCE、SQL注入、XSS | 2年内版本 |
+| ★安宁邮箱 | RCE、SQL注入、XSS | 2年内版本 |
+| ★亿邮    | RCE、SQL注入、XSS | 2年内版本 |
+| ★Microsoft-Exchange	 | RCE、SQL注入、XSS | 2010、2013、2016、2019 |
+| ★coremail | RCE、SQL注入、XSS | 2年内版本 |
+| ★钉钉 | RCE、SQL注入 | 2年内版本 |
+| ★企业微信 | RCE、SQL注入 | 2年内版本 |
+| ★信源豆豆    | RCE、SQL注入 | 2年内版本 |
+| ★融云	 | RCE、SQL注入 | 2年内版本 |
+| ★蓝信 | RCE、SQL注入 | 2年内版本 |
+| ★联想云存储 | RCE、SQL注入 | 2年内版本 |
+| ★群晖 | RCE、SQL注入 | 2年内版本 |
+| ★Mobox企业云盘    | RCE、SQL注入 | 2年内版本 |
+| ★Confluence Wiki	 | RCE、SQL注入 | 2年内版本 |
+| ★用友nc    | RCE、SQL注入 | 2年内版本 |
+| ★致远oa | RCE、SQL注入 | 2年内版本 |
+| ★通达oa | RCE、SQL注入 | 2年内版本 |
+| ★泛微oa | RCE、SQL注入 | 2年内版本 |
+| ★万户oa | RCE、SQL注入 | 2年内版本 |
+| ★蓝凌oa | RCE、SQL注入 | 2年内版本 |
+| ★帆软报表 | RCE、SQL注入 | 2年内版本 |
+| ★Smartbi | RCE、SQL注入 | 2年内版本 |
+| ★金蝶 | RCE、SQL注入 | 2年内版本 |
+| ★天融信vpn	 | RCE、SQL注入 | 2年内版本 |
+| ★网神vpn   | RCE、SQL注入 | 2年内版本 |
+| ★cicsovpn | RCE、SQL注入 | 2年内版本 |
+| ★深信服vpn   | RCE、SQL注入 | 2年内版本 |
+| ★网御星云vpn  | RCE、SQL注入 | 2年内版本 |
+| ★天清汗马vpn  | RCE、SQL注入 | 2年内版本 |
+| ★Fortigate SSL VPN   | RCE、SQL注入 | 2年内版本 |
+| ★Pulse Secure SSL VPN  | RCE、SQL注入 | 2年内版本 |
+| ★PaloAlto GlobalProtect VPN  | RCE、SQL注入 | 2年内版本 |
+| ★Empire CMS	 | RCE、SQL注入 | 2年内版本 |
+| ★phpCMS   | RCE、SQL注入 | 2年内版本 |
+| ★DedeCMS | RCE、SQL注入 | 2年内版本 |
+| ★Discuz! X   | RCE、SQL注入 | 2年内版本 |
+| ★ThinkPHP  | RCE、SQL注入 | 2年内版本 |
+| ★禅道  | RCE、SQL注入 | 2年内版本 |
+| ★WordPress   | RCE、SQL注入 | 2年内版本 |
+| ★Jira  | RCE、SQL注入 | 2年内版本 |
+| ★Flask  | RCE、SQL注入 | 2年内版本 |
+| ★Django   | RCE、SQL注入 | 2年内版本 |
+| ★Pyramid | RCE、SQL注入 | 2年内版本 |
+| ★Jackson   | RCE、SQL注入 | 2年内版本 |
+| ★Fastjson  | RCE、SQL注入 | 2年内版本 |
+| ★Xstream  | RCE、SQL注入 | 2年内版本 |
+| ★Spring   | RCE、SQL注入 | 2年内版本 |
+| ★Struts  | RCE、SQL注入 | 2年内版本 |
+| ★Ghostscript  | RCE、SQL注入 | 2年内版本 |
+| ★RMI  | RCE、SQL注入 | 2年内版本 |
+| ★nexus   | RCE、SQL注入 | 2年内版本 |
+| ★jenkins  | RCE、SQL注入 | 2年内版本 |
 | ★PHP   |  RCE | 2年内版本 |
-| ★JSP |  RCE | 2年内版本 |
 | ★Perl | RCE | 2年内版本 |
 | ★Node.js  | RCE  | 2年内版本 |
 | ★JAVA  | RCE | >=6 |
 | ★ASP.NET   |  RCE |2年内版本 |
 | ★ASP    |  RCE | 2年内版本 |
-| ★Nginx |  RCE |2年内版本 |
-| ★IIS |  RCE |2年内版本 |
-|★Apache  |  RCE | 2年内版本 |
-|  ★Shiro|  RCE、Padding Oracle攻击 |  2年内版本 |
-| ★Apereo CAS      | RCE、SQL注入 | 2年内版本 |
-| ★F5    | RCE、SQL注入 | 2年内版本 |
-| ★深信服防火墙  | RCE、SQL注入 | 2年内版本 |
-|★深信服数据中心     | RCE、SQL注入 | 2年内版本 |
-| ★深信服vpn   | RCE、SQL注入 | 2年内版本 |
-| ★网御星云vpn  | RCE、SQL注入 | 2年内版本 |
-|★天清汗马vpn  | RCE、SQL注入 | 2年内版本 |
-| ★用友nc    | RCE、SQL注入 | 2年内版本 |
-| ★致远oa | RCE、SQL注入 | 2年内版本 |
-| ★通达oa | RCE、SQL注入 | 2年内版本 |
-| ★泛微oa | RCE、SQL注入 | 2年内版本 |
-|★FineReport      | RCE、SQL注入 | 2年内版本 |
-| ★Adobe Experience Manager | RCE、SQL注入 | 2年内版本 |
-| ★奇智堡垒机  | RCE、SQL注入 | 2年内版本 |
-| ★ThinkPHP | RCE、SQL注入 | 2年内版本 |
-| ★久其报表 | RCE、SQL注入 | 2年内版本 |
-| ★Journalx | RCE、SQL注入 | 2年内版本 |
-| ★天融信vpn	 | RCE、SQL注入 | 2年内版本 |
-| ★网神vpn   | RCE、SQL注入 | 2年内版本 |
-| ★cicsovpn | RCE、SQL注入 | 2年内版本 |
-| ★coremail | RCE、SQL注入 | 2年内版本 |
-| ★安宁邮箱 | RCE、SQL注入 | 2年内版本 |
-|  ★webmail   | RCE、SQL注入 | 2年内版本 |
-| ★亿邮    | RCE、SQL注入 | 2年内版本 |
-| ★易普拉格科研管理平台 | RCE、SQL注入 | 2年内版本 |
-| ★万户oa | RCE、SQL注入 | 2年内版本 |
-| ★海康威视 | RCE、SQL注入 | 2年内版本 |
-| ★phpmyadmin	 | RCE、SQL注入 | 2年内版本 |
-| ★winmail邮件系统 | RCE、SQL注入 | 2年内版本 |
-| ★Xampp	 | RCE、SQL注入 | 2年内版本 |
-| ★宝塔linux面板 | RCE、SQL注入 | 2年内版本 |
-| ★wdcp面板	  | RCE、SQL注入 | 2年内版本 |
-| ★discuz	   | RCE、SQL注入 | 2年内版本 |
-|  ★Nagios XI	| RCE、SQL注入 | 2年内版本 |
-| ★dedecms  | RCE、SQL注入 | 2年内版本 |
-| ★joomla | RCE、SQL注入 | 2年内版本 |
-|  ★Drupal	| RCE、SQL注入 | 2年内版本 |
-|  ★ZCMS| RCE、SQL注入 | 2年内版本 |
-| ★Hanweb | RCE、SQL注入 | 2年内版本 |
-| ★Microsoft-Exchange	 | RCE、SQL注入 | 2年内版本 |
-| ★AnyMacro  | RCE、SQL注入 | 2年内版本 |
-| ★YunKeMail  | RCE、SQL注入 | 2年内版本 |
-| ★TurboMail  | RCE、SQL注入 | 2年内版本 |
-| ★35Mail	 | RCE、SQL注入 | 2年内版本 |
-|★禅道项目管理系统 | RCE、SQL注入、文件上传 | 2年内版本 |
-|★Citrix Adc &Net Scaler	 | RCE、目录遍历 |  2年内版本|
-| ★gitlab| RCE、权限提升、敏感信息获取 | 2年内版本 |
-|★Apache Solr  |   RCE、未授权|  5.x - 8.2.0 |
-|★Jira  |  RCE、未授权，SSRF |  2年内版本|
-| ★vBulletin| RCE、未授权访问  | 	5.x|
-|★Apache Tomcat 	 |  RCE、文件上传	|   6、7、8、9 |
-| ★laravel框架| RCE、文件上传 |2年内版本 |
-|★docker|Remote  api未授权/copy漏洞/构建代码执行漏洞|2年内版本|
-|★phpstduy	|RCE|2年内版本|
-|★Harbor|任意管理员注册|2年内版本|
-|★RTX|文件上传、信息泄露|2年内版本|
-|★F5（防火墙）|RCE|2年内版本|
-|★OpenAm|RCE、信息泄露等|2年内版本|
+| ★Sangfor Application | RCE | 2年内版本 |
+| ★绿盟长亭启明waf |    RCE   |   2年内版本    |
+| ★深信服防火墙 | RCE |  2年内版本 |
+| ★F5（防火墙）华为交换机防火墙|  RCE  | 2年内版本  |
+| ★长亭墨云幻阵等蜜罐 |   RCE |  2年内版本 |
+| ★H3C交换机 |   RCE |   2年内版本|
+| ★华为交换机 | RCE | 2年内版本 |
+| ★CISCO交换机 | RCE | 2年内版本 |
+| ★TP-LINK交换机 | RCE | 2年内版本 |
+| ★D-LINK交换机 | RCE | 2年内版本 |
+| ★锐捷交换机 | RCE | 2年内版本 |
+| ★phpStudy | RCE、SQL注入 | 2年内版本 |
+| ★XAMPP |    RCE、SQL注入   |   2年内版本    |
+| ★wamp | RCE、SQL注入 |  2年内版本 |
+| ★宝塔|  RCE、SQL注入  | 2年内版本  |
+| ★lnmp |   RCE、SQL注入 |  2年内版本 |
+| ★海康威视 |   RCE |   2年内版本|
+| ★大华摄像头 | RCE | 2年内版本 |
+| ★宝塔linux面板 | RCE | 2年内版本 |
+| ★Appnode | RCE | 2年内版本 |
+| ★Zabbix | RCE | 2年内版本 |
+| ★Apple iOS | RCE、本地提权 | 13.x/12.x |
+| ★Android  |  RCE、本地提权 | 9.x/8.x |
+| ★Microsoft |  RCE | 2年内版本 |
+| ★Oracle JD | RCE | 2年内版本 |
+| ★金蝶-U9 |  RCE | 2年内版本 |
+| ★用友-K/3 | RCE | 2年内版本 |
+| ★神舟数码-易助 |  RCE | 2年内版本 |
+| ★SAP ERP | RCE | 2年内版本 |
+| ★harbor | RCE、任意管理员注册 | 2年内版本 |
+| ★gitlab | RCE | 2年内版本 |
+| ★SVN | RCE | 2年内版本 |
+| ★齐治堡垒机 |  RCE、本地提权 | 2年内版本 |
+| ★天钥堡垒机 | RCE、本地提权 | 2年内版本 |
+| ★jumpserver堡垒机 |  RCE、本地提权 | 2年内版本 |
+| ★绿盟堡垒机 | RCE、本地提权 | 2年内版本 |
+| ★启明堡垒机 |  RCE、本地提权 | 2年内版本 |
+| ★奇安信堡垒机 | RCE、本地提权 | 2年内版本 |
+| ★AWS |  RCE、本地提权、虚拟机逃逸 | 2年内版本 |
+| ★azure | RCE、本地提权、虚拟机逃逸 | 2年内版本 |
+| ★KVM |  RCE、本地提权、虚拟机逃逸 | 2年内版本 |
+| ★OpenStack | RCE、本地提权、虚拟机逃逸 | 2年内版本 |
+| ★VMware ESXi |  RCE、本地提权、虚拟机逃逸 | 2年内版本 |
+| ★docker | RCE、本地提权、虚拟机逃逸、Remote api未授权 | 2年内版本 |
+| ★浪潮ClusterEngine |  RCE、本地提权、虚拟机逃逸 | 2年内版本 |
+| ★XenDesktop | RCE、本地提权、虚拟机逃逸 | 2年内版本 |
+| ★K8s |  RCE、本地提权、虚拟机逃逸 | 2年内版本 |
+| ★hadoop | RCE、本地提权、虚拟机逃逸 | 2年内版本 |
+| ★Oracle |   RCE、信息泄露、本地提权 | 2年内版本 |
+| ★Mysql |  RCE、信息泄露、本地提权 | 2年内版本 |
+| ★MSSQL |  RCE、信息泄露、本地提权 |2年内版本 |
+| ★PostgreSQL |  RCE、信息泄露、本地提权 |2年内版本 |
+| ★MongoDB  |  RCE、信息泄露、本地提权 | 2年内版本 |
+| ★Redis|  RCE、信息泄露、本地提权 |  2年内版本 |
+| ★Chrome | RCE、本地提权 | 2年内版本 |
+| ★FireFox    | RCE、本地提权 | 2年内版本 |
+| ★ie  | RCE、本地提权 | 2年内版本 |
+| ★Adobe Flash     | RCE、本地提权 | 2年内版本 |
+| ★Citrix      | RCE、SQL注入 | 2年内版本 |
+| ★青云 | RCE、SQL注入 | 2年内版本 |
+| ★和信创天  | RCE、SQL注入 | 2年内版本 |
+| ★瑞友天翼 | RCE、SQL注入 | 2年内版本 |
+| ★云装机 | RCE、SQL注入 | 2年内版本 |
+| ★奇安信天擎 | RCE、SQL注入 | 2年内版本 |
+| ★北信源终端管控   | RCE、SQL注入 | 2年内版本 |
+| ★启明星辰终端管控 | RCE、SQL注入 | 2年内版本 |
+| ★联软安全运维系统 | RCE、SQL注入 | 2年内版本 |
+| ★windows	 | RCE、本地提权 | 2年内版本 |
+| ★linux | RCE、本地提权 | 2年内版本 |
+| ★aix	  | RCE、本地提权 | 2年内版本 |
+| ★windows server2008	   | RCE、本地提权 | 2年内版本 |
+| ★windows server2012	| RCE、本地提权 | 2年内版本 |
+| ★windows server2016  | RCE、本地提权 | 2年内版本 |
+| ★windows server2018 | RCE、本地提权 | 2年内版本 |
+| ★windows server2019	| RCE、本地提权 | 2年内版本 |
+
 
 
 
