@@ -2,6 +2,41 @@
 
 | 名称                 | 网址                                              |
 | -------------------- | ------------------------------------------------- |
+|  Office 2007/2010/2013/2016/2019      |     |
+|   Adobe acrobat DC reader     |     |
+|  zimbra      |     |
+|  exim      |     |
+|   mail2000     |     |
+|    roundcube    |     |
+|    Android     |     |
+|    iOS     |     |
+|    智能监控设备    |     |
+|    智能音箱设备    |     |
+|   Cisco 系列     |     |
+|    TpLink 系列   |     |
+|    Juniper  系列  |     |
+|    Paloalto 防火墙    |     |
+|    Checkpoint 防火墙    |     |
+|    F5 BigIP    |     |
+|    Fortigate防火墙    |     |
+|    Sophos XG防火墙    |     |
+|    Cyberoam防火墙    |     |
+|    Windows 7/8/10/2008/2012/2016/2019    |     |
+|    MAC OS    |     |
+|    Vxworks    |     |
+|    Mcafee EPO    |     |
+|    Symantec endpoint protection    |     |
+|    escan  |     |
+|    Anhlab  |     |
+|    BlueCoat    |     |
+|    ManageEngine    |     |
+|    Vmware workstation 12/14/15   |     |
+|   Qemu  |     |
+|    Hyper-V  |     |
+|    ESXI  |     |
+|   Docker    |     |
+|   DrayTek    |     |
+|   Netgear    |     |
 | Chrome               | https://www.google.cn/intl/zh-CN/chrome/          |
 | FireFox              | http://www.firefox.com.cn/                        |
 | Safari               | None                                              |
