@@ -2,6 +2,7 @@
 
 | 名称                 | 网址                                              |
 | -------------------- | ------------------------------------------------- |
+|  最新收录组件如下      |     |
 |  Office 2007/2010/2013/2016/2019      |     |
 |   Adobe acrobat DC reader     |     |
 |  zimbra      |     |
@@ -37,6 +38,7 @@
 |   Docker    |     |
 |   DrayTek    |     |
 |   Netgear    |     |
+|  --- 分割线---  |----分割线---|
 | Chrome               | https://www.google.cn/intl/zh-CN/chrome/          |
 | FireFox              | http://www.firefox.com.cn/                        |
 | Safari               | None                                              |
