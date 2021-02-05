@@ -38,6 +38,8 @@
 | 深信服vpn   | RCE、任意账号添加、任意密码修改 | 最新 |
 | 网御星云vpn  |RCE、任意账号添加、任意密码修改 | 最新 |
 | 天清汗马vpn  | RCE、任意账号添加、任意密码修改| 最新 |
+| Cisco SSLVPN  | RCE、任意账号添加、任意密码修改| 最新 |
+| ArrayVPN | RCE、任意账号添加、任意密码修改| 最新 |
 | JeeCMS CMS	 | RCE、SQL注入 | 最新 |
 | 大汉CMS   | RCE、SQL注入 | 最新 |
 | 拓尔思TRS | RCE、SQL注入 | 最新 |
@@ -48,6 +50,10 @@
 | Jackson   | RCE、SQL注入 | 最新 |
 | Fastjson  | RCE、SQL注入 | 最新 |
 | Xstream  | RCE、SQL注入 | 最新 |
+| yii2 |RCE  | 最新 |
+| SpringMVC |RCE  | 最新 |
+| SprintBoot | RCE | 最新 |
+| VisualSVN | RCE | 最新 |
 |深信服防火墙| RCE、任意账号添加、任意密码修改 | 最新 |
 |山石网科防火墙| RCE、任意账号添加、任意密码修改 | 最新 |
 |网康网康应用网关| RCE、任意账号添加、任意密码修改 | 最新 |
@@ -69,7 +75,9 @@
 | 奇安信堡垒机 | RCE、本地提权 | 最新 |
 | 安恒堡垒机 | RCE、本地提权 | 最新 |
 | 帕拉迪堡垒机 | RCE、本地提权 | 最新 |
+| 思福迪堡垒机 | RCE | 最新 |
 | VMware ESXi |  RCE、本地提权、虚拟机逃逸 | 最新 |
+| VMware Horizon |  RCE、任意账号添加、任意密码修改 | 最新 |
 | Oracle |   RCE、信息泄露、本地提权 | 最新 |
 | Mysql |  RCE、信息泄露、本地提权 | 最新 |
 | MSSQL |  RCE、信息泄露、本地提权 |最新 |
@@ -95,6 +103,7 @@
 | windows server2016  | RCE、本地提权 | 最新 |
 | windows server2018 | RCE、本地提权 | 最新 |
 | windows server2019	| RCE、本地提权 | 最新 |
+
 
 
 
