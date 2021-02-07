@@ -7,7 +7,7 @@
 | Nginx |RCE  |2年内版本   |
 | IIS |RCE  |2年内版本  |
 | 蓝X | RCE、SQL注入 | 最新 |
-| 联X云存储 | RCE、SQL注入 | 最新 |
+| 联X云X储 | RCE、SQL注入 | 最新 |
 | 万Xoa | RCE、SQL注入 | 最新 |
 | 蓝Xoa | RCE、SQL注入 | 最新 |
 | Jenkins | RCE | 最新 |
@@ -43,14 +43,14 @@
 | 禅X| RCE、SQL注入 | 最新 |
 | WordPress   | RCE、SQL注入 | 最新 |
 | Jira  | RCE、SQL注入 | 最新 |
-|山X网科防火墙| RCE、任意账号添加、任意密码修改 | 最新 |
+|山XX科防火墙| RCE、任意账号添加、任意密码修改 | 最新 |
 | Jackson   | RCE、SQL注入 | 最新 |
 | Fastjson  | RCE、SQL注入 | 最新 |
 |网K应用网关| RCE、任意账号添加、任意密码修改 | 最新 |
 | Xstream  | RCE、SQL注入 | 最新 |
 | yii2 |RCE  | 最新 |
 | SpringMVC |RCE  | 最新 |
-|奇X信天眼 |    RCE   |   最新    |
+|奇XX天眼 |    RCE   |   最新    |
 | SprintBoot | RCE | 最新 |
 | VisualSVN | RCE | 最新 |
 |深X服防火墙| RCE、任意账号添加、任意密码修改 | 最新 |
@@ -77,7 +77,7 @@
 | 深X服桌面云 | RCE | 最新 |
 | MSSQL |  RCE、信息泄露、本地提权 |最新 |
 | PostgreSQL |  RCE、信息泄露、本地提权 |最新 |
-| 奇X信堡垒机 | RCE、本地提权 | 最新 |
+| 奇XX堡垒机 | RCE、本地提权 | 最新 |
 | MongoDB  |  RCE、信息泄露、本地提权 | 最新 |
 | 安X堡垒机 | RCE、本地提权 | 最新 |
 | Redis|  RCE、信息泄露、本地提权 |  最新 |
@@ -90,7 +90,7 @@
 | 用XNC | RCE | 最新 |
 | Citrix      | RCE | 最新 |
 | 青Y | RCE | 最新 |
-| 奇X信天Q EDR |  RCE、任意账号添加、任意密码修改 | 最新 |
+| 奇XX天Q EDR |  RCE、任意账号添加、任意密码修改 | 最新 |
 |火X防病毒|  RCE、任意账号添加、任意密码修改 | 最新 |
 | windows	 | RCE、本地提权 | 最新 |
 | linux | RCE、本地提权 | 最新 |
