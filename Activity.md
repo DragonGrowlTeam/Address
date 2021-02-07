@@ -20,7 +20,7 @@
 | Apache Shiro | RCE、Padding Oracle攻击 |   最新    |
 | Solr |   RCE |   最新 |
 | Resin | RCE | 最新 |
-| winmail | RCE、SQL注入、XSS | 最新 |
+| winmail | RCE、SQEDL注入、XSS | 最新 |
 | 亿YOU    | RCE、SQL注入、XSS | 最新 |
 | 政W安X邮 | RCE、SQL注入、XSS | 最新 |
 | Microsoft-Exchange	 | RCE、SQL注入、XSS | 2010、2013、2016、2019 |
@@ -97,7 +97,6 @@
 | 深X服EDR | RCE、任意账号添加、任意密码修改| 最新 |
 | windows server2012	| RCE、本地提权 | 最新 |
 | windows server2008	   | RCE、本地提权 | 最新 |
-| 金X防病毒  |  RCE、任意账号添加、任意密码修改| 最新 |
 | windows server2016  | RCE、本地提权 | 最新 |
 | X神vpn   | RCE、任意账号添加、任意密码修改 | 最新 |
 | windows server2018 | RCE、本地提权 | 最新 |
