@@ -89,6 +89,11 @@
 | Adobe Flash     | RCE、本地提权 | 最新 |
 | 用XNC | RCE | 最新 |
 | Citrix      | RCE | 最新 |
+| 椒T      | RCE | 最新 |
+| 云垒      | RCE | 最新 |
+| 云眼      | RCE | 最新 |
+| 安X狗     | RCE | 最新 |
+| 云锁     | RCE | 最新 |
 | 青Y | RCE | 最新 |
 | 奇XX天Q EDR |  RCE、任意账号添加、任意密码修改 | 最新 |
 |火X防病毒|  RCE、任意账号添加、任意密码修改 | 最新 |
