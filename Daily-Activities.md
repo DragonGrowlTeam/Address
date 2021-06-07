@@ -1,25 +1,25 @@
 | 设备厂商       | 设备型号                                                     | 版本               | 漏洞类型                  | 截止时间         |
 | -------------- | ------------------------------------------------------------ | ------------------ | ------------------------- | ---------------- |
-| 高通           | 高通LTE AG35/AG15 基带                                       | 当前日期的最新版本 | RCE                       | -                |
-| 高通           | 高通LTE  520R/550Q/500Q 基带                                 | 当前日期的最新版本 | RCE                       | -                |
-| 高通           | 高通蓝牙模组（BT-MT26-1/BT-MO77-1/     SPHE888_MODULE等车规级模组） | 当前日期的最新版本 | RCE                       | -             |
-| 高通           | 高通WiFi模组                                                 | 当前日期的最新版本 | RCE                       | -                |
-| FreeBSD        | FreeBSD TCP/IP stack                                         | 当前日期的最新版本 | RCE                       | -                |
-| BSD            | BSD                                                          | 当前日期的最新版本 | Remote DOS                | -                |
-| Apple          | Apple Car Play(车端)                                         | 当前日期的最新版本 | RCE                       | -                |
-| Google         | Android                                                      | 当前日期的最新版本 | 0/1click RCE              | -                |
-| Linux          | Linux                                                        | 当前日期的最新版本 | RCE                       | -                |
-| 华为           | 海思Hi6932基带                                               | 当前日期的最新版本 | RCE                       | -                |
-| Cisco          | Cisco RV320                                                  | 当前日期的最新版本 | WAN口未授权RCE （零交互） | 2021.9月30日截止 |
-| Cisco | Cisco RV260                                | 当前日期的最新版本 | WAN口未授权RCE （零交互） | 2021.9月30日截止 |
-| FRITZ!Box      | 4020                                                         | 当前日期的最新版本 | WAN口未授权RCE （零交互） | 2021.9月30日截止 |
-| Qnap           | Silent NAS                                                   | 当前日期的最新版本 | WAN口未授权RCE （零交互） | 2021.9月30日截止 |
-| Draytek        | Draytek 2912                                                 | 当前日期的最新版本 | WAN口未授权RCE （零交互） | 2021.9月30日截止 |
-| ASUS           | RT-AC68U                                                     | 当前日期的最新版本 | WAN口未授权RCE （零交互） | 2021.9月30日截止 |
-| ASUS      | AC86U                                                       | 当前日期的最新版本 | WAN口未授权RCE （零交互） | 2021.9月30日截止 |
-| ASUS  | GT-AC5300                                  | 当前日期的最新版本 | WAN口未授权RCE （零交互） | 2021.9月30日截止 |
-| Ubiquiti       | Ubnt EdgeRouter                                              | 当前日期的最新版本 | WAN口未授权RCE （零交互） | 2021.9月30日截止 |
-| Freebox        |                                                              | 当前日期的最新版本 | WAN口未授权RCE （零交互） | 2021.9月30日截止 |
-| Bbox-Connexion | Bbox2/3                                                      | 当前日期的最新版本 | WAN口未授权RCE （零交互） | 2021.9月30日截止 |
-| Xpon onu       | Xpon onu                                                     | 当前日期的最新版本 | WAN口未授权RCE （零交互） | 2021.9月30日截止 |
-| Mikrotik       | 在售款Mikrotik                                               | 当前日期的最新版本 | WAN口未授权RCE （零交互） | 2021.9月30日截止 |
+| 高通           | 高通LTE AG35/AG15 基带        | 当前日期的最新版本 | RCE                       | -                |
+| 高通           | 高通LTE  520R/550Q/500Q 基带 | 当前日期的最新版本 | RCE                       | -                |
+| 高通           | 高通蓝牙模组（BT-MT26-1/BT-MO77-1/SPHE888_MODULE等车规级模组） | 当前日期的最新版本 | RCE                       | -             |
+| 高通           | 高通WiFi模组             | 当前日期的最新版本 | RCE                       | -                |
+| FreeBSD        | FreeBSD TCP/IP stack    | 当前日期的最新版本 | RCE                       | -                |
+| BSD            | BSD                      | 当前日期的最新版本 | Remote DOS                | -                |
+| Apple          | Apple Car Play(车端)     | 当前日期的最新版本 | RCE                       | -                |
+| Google         | Android               | 当前日期的最新版本 | 0/1click RCE              | -                |
+| Linux          | Linux               | 当前日期的最新版本 | RCE                       | -                |
+| 华为           | 海思Hi6932基带      | 当前日期的最新版本 | RCE                       | -                |
+| Cisco          | Cisco RV320        | 当前日期的最新版本 | WAN口未授权RCE （零交互） | 2021.9月30日截止 |
+| Cisco | Cisco RV260                 | 当前日期的最新版本 | WAN口未授权RCE （零交互） | 2021.9月30日截止 |
+| FRITZ!Box      | 4020              | 当前日期的最新版本 | WAN口未授权RCE （零交互） | 2021.9月30日截止 |
+| Qnap           | Silent NAS        | 当前日期的最新版本 | WAN口未授权RCE （零交互） | 2021.9月30日截止 |
+| Draytek        | Draytek 2912     | 当前日期的最新版本 | WAN口未授权RCE （零交互） | 2021.9月30日截止 |
+| ASUS           | RT-AC68U         | 当前日期的最新版本 | WAN口未授权RCE （零交互） | 2021.9月30日截止 |
+| ASUS          | AC86U            | 当前日期的最新版本 | WAN口未授权RCE （零交互） | 2021.9月30日截止 |
+| ASUS          | GT-AC5300   | 当前日期的最新版本 | WAN口未授权RCE （零交互） | 2021.9月30日截止 |
+| Ubiquiti       | Ubnt EdgeRouter | 当前日期的最新版本 | WAN口未授权RCE （零交互） | 2021.9月30日截止 |
+| Freebox        |       -           | 当前日期的最新版本 | WAN口未授权RCE （零交互） | 2021.9月30日截止 |
+| Bbox-Connexion | Bbox2/3   | 当前日期的最新版本 | WAN口未授权RCE （零交互） | 2021.9月30日截止 |
+| Xpon onu       | Xpon onu      | 当前日期的最新版本 | WAN口未授权RCE （零交互） | 2021.9月30日截止 |
+| Mikrotik       | 在售款Mikrotik   | 当前日期的最新版本 | WAN口未授权RCE （零交互） | 2021.9月30日截止 |
