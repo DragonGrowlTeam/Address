@@ -62,8 +62,7 @@
 | Webmin               | http://www.webmin.com/                            |
 | Spring Framework     | https://projects.spring.io/spring-framework/      |
 | HttpFileServer       | http://www.rejetto.com/hfs/                       |
-| Yii                  | https://www.yiiframework.com/                     |
-| Empire CMS           | http://www.phome.net/                             |
+| Yii                  | https://www.yiiframework.com/                     |                           |
 | Solr                 | http://lucene.apache.org/solr/                    |
 | Laravel              | https://laravel.com/                              |
 | Fastjson             | https://github.com/alibaba/fastjson               |
@@ -75,7 +74,6 @@
 | Hudson               | http://jenkins-ci.org/                            |
 | Redmine              | https://www.redmine.org/                          |
 | Kibana               | https://www.elastic.co/products/kibana            |
-| phpCMS               | http://www.phpcms.cn/                             |
 | Zimbra               | https://www.zimbra.com/                           |
 | Piwik                | https://matomo.org                                |
 | DokuWiki             | https://www.dokuwiki.org/dokuwiki                 |
@@ -88,13 +86,9 @@
 | Sentry               | https://sentry.io/                                |
 | Horde                | https://www.horde.org/apps/horde/                 |
 | CMSTOP               | http://www.cmstop.com/                            |
-| Destoon              | https://www.destoon.com/                          |
 | Django               | https://www.djangoproject.com/                    |
 | phpMyAdmin           | https://www.phpmyadmin.net/                       |
-| HiShop               | http://www.hishop.com.cn/                         |
-| PHP168               | http://www.php168.net/                            |
 | Gogs                 | https://gogs.io/                                  |
-| B2Bbuilder           | http://www.b2b-builder.com/                       |
 | emlog                | http://www.emlog.net/                             |
 | Discuz!              | http://www.discuz.net                             |
 | Z-Blog               | https://www.zblogcn.com/                          |
